@@ -1,0 +1,22 @@
+.carousel-item {
+  max-height: 600px;
+}
+
+.card-img-top {
+  aspect-ratio: 1 / 1;
+  width: 100%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  overflow: hidden;
+}
+
+.product-img-main {
+  aspect-ratio: 1 / 1;
+  width: 80%;
+  margin: 0 auto;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  overflow: hidden;
+}
